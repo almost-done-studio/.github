@@ -29,11 +29,15 @@ Top-down приключение где поля страниц оживают.
 
 ### Прогресс
 
+План: [frontend/docs/MVP.md](https://github.com/almost-done-studio/frontend/blob/develop/docs/MVP.md) (2–4 ч/нед).  
+UI: [Figma — Marginalia Project](https://www.figma.com/design/KWaV7hYij6L49tceSNVe08/Marginalia-Project).
+
 ```
-Milestone 1 — Foundation      ░░░░░░░░░░  в работе
-Milestone 2 — Characters      ░░░░░░░░░░  ожидает
-Milestone 3 — World           ░░░░░░░░░░  ожидает
-Milestone 4 — Polish & Deploy ░░░░░░░░░░  ожидает
+Milestone 1 — Foundation      ██████████  готово
+MVP (web slice)               ██████░░░░  в работе
+  · ✓ Figma carousel + map + tap-to-walk + HUD
+  · ○ Monk idle/walk · localStorage · interact
+Backend / Capacitor           ░░░░░░░░░░  после MVP
 ```
 
 ---
