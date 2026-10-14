@@ -19,9 +19,9 @@
 
 ```
 Milestone 1 — Foundation      ██████████  готово
-MVP (web slice)               ██████░░░░  в работе
-  · ✓ Figma carousel + map + tap-to-walk + HUD
-  · ○ Monk idle/walk · localStorage · interact
+MVP (web slice)               ███████░░░  в работе
+  · ✓ Figma carousel + map + tap-to-walk + HUD + Monk idle/walk
+  · ○ экран загрузки · localStorage · interact
 Backend / Capacitor           ░░░░░░░░░░  после MVP
 ```
 
@@ -50,4 +50,4 @@ Backend / Capacitor           ░░░░░░░░░░  после MVP
 
 - 📋 [Задачи и прогресс](../../projects) — GitHub Projects
 - 📖 [Правила работы с GitHub](CONTRIBUTING.md) — читать дизайнеру обязательно
-- 🎮 [Демо](https://almost-done-studio.vercel.app) — браузерная версия *(появится позже)*
+- 🎮 [Демо](https://frontend-psi-seven-2ubt84k3lt.vercel.app) — браузерная версия

@@ -34,9 +34,9 @@ UI: [Figma — Marginalia Project](https://www.figma.com/design/KWaV7hYij6L49tce
 
 ```
 Milestone 1 — Foundation      ██████████  готово
-MVP (web slice)               ██████░░░░  в работе
-  · ✓ Figma carousel + map + tap-to-walk + HUD
-  · ○ Monk idle/walk · localStorage · interact
+MVP (web slice)               ███████░░░  в работе
+  · ✓ Figma carousel + map + tap-to-walk + HUD + Monk idle/walk
+  · ○ экран загрузки · localStorage · interact
 Backend / Capacitor           ░░░░░░░░░░  после MVP
 ```
 
